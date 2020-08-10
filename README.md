@@ -1,7 +1,6 @@
 ### Hi there :) <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 ---
-<br />
 
 [<img align="left" alt="Youtube" width="26px" src="https://raw.githubusercontent.com/AlanD20/AlanD20/master/icons/yt.png" />][youtube]
 [<img align="left" alt="Twitter" width="26px" src="https://raw.githubusercontent.com/AlanD20/AlanD20/master/icons/tw.png" />][twitter]
