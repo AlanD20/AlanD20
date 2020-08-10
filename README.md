@@ -3,10 +3,10 @@
 ---
 <br />
 
-[<img align="left" alt="Youtube" width="26px" src="" />][youtube]
-[<img align="left" alt="Twitter" width="26px" src="" />][twitter]
-[<img align="left" alt="Facebook" width="26px" src="" />][facebook]
-[<img align="left" alt="Instagram" width="26px" src="" />][instagram]
+[<img align="left" alt="Youtube" width="26px" src="https://raw.githubusercontent.com/AlanD20/AlanD20/master/icons/yt.png" />][youtube]
+[<img align="left" alt="Twitter" width="26px" src="https://raw.githubusercontent.com/AlanD20/AlanD20/master/icons/tw.png" />][twitter]
+[<img align="left" alt="Facebook" width="26px" src="https://raw.githubusercontent.com/AlanD20/AlanD20/master/icons/facebook.png" />][facebook]
+[<img align="left" alt="Instagram" width="26px" src="https://raw.githubusercontent.com/AlanD20/AlanD20/master/icons/instagram.png" />][instagram]
 
 
 
