@@ -1,8 +1,8 @@
 ### Hi there :) <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 
-##Projects
-[R1Store]R1Store (HTML, CSS, JavaScript)[R1Store]
+## Projects
+[R1Store] (HTML, CSS, JavaScript)
 
 ---
 
