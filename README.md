@@ -2,8 +2,8 @@
 
 
 ## Projects
-My [Portfolio] (HTML, CSS, JavaScript, GSAP)
-[R1Store] (HTML, CSS, JavaScript)
+- My [Portfolio] (HTML, CSS, JavaScript, GSAP)
+- [R1Store] (HTML, CSS, JavaScript)
 
 ---
 
