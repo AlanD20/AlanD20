@@ -2,6 +2,7 @@
 
 
 ## Projects
+My [Portfolio] (HTML, CSS, JavaScript, GSAP)
 [R1Store] (HTML, CSS, JavaScript)
 
 ---
@@ -18,3 +19,4 @@
 [facebook]: https://facebook.com/alands20
 [instagram]: https://instagram.com/aland_2011
 [R1Store]: https://r1store.netlify.app/
+[Portfolio]: https://aland20.github.io/
