@@ -4,6 +4,7 @@
 ## Projects
 - My [Portfolio] (HTML, CSS, JavaScript, GSAP)
 - [R1Store] (HTML, CSS, JavaScript)
+- [LiveChat] (HTML, CSS, JavaScript, Firebase SDK)
 
 ---
 
@@ -20,3 +21,4 @@
 [instagram]: https://instagram.com/aland_2011
 [R1Store]: https://r1store.netlify.app/
 [Portfolio]: https://aland20.github.io/
+[LiveChat]: https://livechat-20f11.web.app/
