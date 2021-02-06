@@ -2,10 +2,12 @@
 
 
 ## Projects
-- My [Portfolio] (HTML, CSS, JavaScript, GSAP)
+- My [Personal Portfolio] (HTML, CSS, JavaScript, GSAP)
 - [R1Store] (HTML, CSS, JavaScript)
 - [LiveChat] (HTML, CSS, JavaScript, Firebase SDK)
-
+- [Password Generator] (HTML, CSS, JavaScript)
+- [Uber Fee Calculator Clone] (HTML, CSS, JavaScript)
+- [Uber Eats Clone Template] (HTML, CSS, JavaScript)
 ---
 
 [<img align="left" alt="Youtube" width="26px" src="https://raw.githubusercontent.com/AlanD20/AlanD20/master/icons/yt.png" />][youtube]
@@ -20,5 +22,8 @@
 [facebook]: https://facebook.com/alands20
 [instagram]: https://instagram.com/aland_2011
 [R1Store]: https://r1store.netlify.app/
-[Portfolio]: https://aland20.github.io/
+[Personal Portfolio]: https://aland20.github.io/
 [LiveChat]: https://livechat-20f11.web.app/
+[Password Generator]: https://passwordgenerator.aland20.repl.co/
+[Uber Fee Calculator Clone]: https://ubercalc.aland20.repl.co/
+[Uber Eats Clone Template]: https://ubereat.aland20.repl.co/
