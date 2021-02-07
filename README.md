@@ -2,7 +2,8 @@
 
 
 ## Projects
-- My [Personal Portfolio] (HTML, CSS, JavaScript, GSAP)
+ 
+- #### My [Personal Portfolio] (HTML, CSS, JavaScript, GSAP)
 - [R1Store] (HTML, CSS, JavaScript)
 - [LiveChat] (HTML, CSS, JavaScript, Firebase SDK)
 - [Password Generator] (HTML, CSS, JavaScript)
@@ -10,13 +11,14 @@
 - [Uber Eats Clone Template] (HTML, CSS, JavaScript)
 ---
 
-[<img align="left" alt="Youtube" width="26px" src="https://raw.githubusercontent.com/AlanD20/AlanD20/master/icons/yt.png" />][youtube]
+[<img align="left" alt="Linkedin" width="26px" src="https://raw.githubusercontent.com/AlanD20/AlanD20/master/icons/linkedin.png" />][linkedin]
 [<img align="left" alt="Twitter" width="26px" src="https://raw.githubusercontent.com/AlanD20/AlanD20/master/icons/tw.png" />][twitter]
-[<img align="left" alt="Facebook" width="26px" src="https://raw.githubusercontent.com/AlanD20/AlanD20/master/icons/facebook.png" />][facebook]
+[<img align="left" alt="Youtube" width="26px" src="https://raw.githubusercontent.com/AlanD20/AlanD20/master/icons/yt.png" />][youtube]
 [<img align="left" alt="Instagram" width="26px" src="https://raw.githubusercontent.com/AlanD20/AlanD20/master/icons/instagram.png" />][instagram]
+[<img align="left" alt="Facebook" width="26px" src="https://raw.githubusercontent.com/AlanD20/AlanD20/master/icons/facebook.png" />][facebook]
 
 
-
+[linkedin]: https://www.linkedin.com/in/aland20
 [youtube]: https://youtube.com/aland20
 [twitter]: https://twitter.com/aland_2011
 [facebook]: https://facebook.com/alands20
