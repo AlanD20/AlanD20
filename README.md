@@ -9,6 +9,7 @@
 - [Password Generator] (HTML, CSS, JavaScript)
 - [Uber Fee Calculator Clone] (HTML, CSS, JavaScript)
 - [Uber Eats Clone Template] (HTML, CSS, JavaScript)
+- [Website Blog] (HTML, TailwindCSS, JavaScript, Firebase SDK)
 ---
 
 [<img align="left" alt="Linkedin" width="26px" src="https://raw.githubusercontent.com/AlanD20/AlanD20/master/icons/linkedin.png" />][linkedin]
@@ -29,3 +30,4 @@
 [Password Generator]: https://passwordgenerator.aland20.repl.co/
 [Uber Fee Calculator Clone]: https://ubercalc.aland20.repl.co/
 [Uber Eats Clone Template]: https://ubereat.aland20.repl.co/
+[Website Blog]: https://webblog.aland20.repl.co/
