@@ -6,7 +6,8 @@
 
 Here is a list of my projects:
 - **My [Personal Portfolio] (Nextjs, Prisma, React, Redux-Toolkit, TailwindCSS)**
-- [Car Center] (HTML, TailwindCSS, JavaScript, PHP, Laravel)
+- [Car Center] (PHP, Laravel, JavaScript, TailwindCSS)
+- [Personal Collection Management] (PHP, Laravel, Inertiajs, Javascript/Typescript, Tailwindcss)
 - [R1Store] (HTML, CSS, JavaScript)
 - [LiveChat] (HTML, CSS, JavaScript, Firebase SDK)
 - [Password Generator] (HTML, CSS, JavaScript)
@@ -34,6 +35,7 @@ Here is a list of my projects:
 [Website Blog]: https://webblog.aland20.tech/
 [EnRoute Project]: https://github.com/AlanD20/EnRoute-university-project
 [Car Center]: https://car-center.aland20.tech/
+[Personal Collection Management]: https://pcm.aland20.tech/
 <!---
 [R1Store]: https://r1store.netlify.app/
 [Personal Portfolio]: https://aland20.github.io/
