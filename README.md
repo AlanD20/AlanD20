@@ -14,7 +14,6 @@ Here is a list of my projects:
 - [Uber Fee Calculator Clone] (HTML, CSS, JavaScript)
 - [Uber Eats Clone Template] (HTML, CSS, JavaScript)
 - [Website Blog] (HTML, TailwindCSS, JavaScript, Firebase SDK)
-- [EnRoute Project] (University Course Project)
 ---
 
 [<img align="left" alt="Linkedin" width="26" height="26" src="https://raw.githubusercontent.com/AlanD20/AlanD20/master/icons/linkedin.png" />][linkedin]
@@ -29,13 +28,12 @@ Here is a list of my projects:
 [twitter]: https://twitter.com/aland_2011
 [facebook]: https://facebook.com/alands20
 [instagram]: https://instagram.com/aland_2011
-[R1Store]: https://r1store.aland20.tech/
-[Personal Portfolio]: https://www.aland20.tech/
-[LiveChat]: https://live-chat.aland20.tech/
-[Website Blog]: https://webblog.aland20.tech/
-[EnRoute Project]: https://github.com/AlanD20/EnRoute-university-project
-[Car Center]: https://car-center.aland20.tech/
-[Personal Collection Management]: https://pcm.aland20.tech/
+[R1Store]: https://r1store.aland20.com/
+[Personal Portfolio]: https://www.aland20.com/
+[LiveChat]: https://live-chat.aland20.com/
+[Website Blog]: https://web-blog.aland20.com/
+[Car Center]: https://car-center.aland20.com/
+[Personal Collection Management]: https://pcm.aland20.com/
 <!---
 [R1Store]: https://r1store.netlify.app/
 [Personal Portfolio]: https://aland20.github.io/
